@@ -27,13 +27,21 @@ Steps to reproduce:
 This is an open source weather API that gives you ultimate weather data in JSON and XML format(I have extracted the data in JSON format)
 2. Python libraries:
    -> Dagster: pip install dagster dagster-webserver
+   
    -> pandas: pip install pandas
+   
    -> snowflake: pip install snowflake-connector-python
+   
    -> Requests: pip install Requests
+   
    -> SQLAlchemy: pip install SQLAlchemy
+   
    -> snowflake-sqlalchemy: pip install snowflake-sqlalchemy
+   
    -> flatten-json: pip install flatten-json
+   
    -> pytest: pip install pytest
+   
 3. Snowflake credentials
 You can spin a free trail using this link: https://signup.snowflake.com/
 4. Dagster account
