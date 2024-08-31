@@ -44,5 +44,3 @@ This is an open source weather API that gives you ultimate weather data in JSON 
    
 3. Snowflake credentials
 You can spin a free trail using this link: https://signup.snowflake.com/
-4. Dagster account
-You can spin a free trail using this link: https://dagster.io/lp/dagster-cloud-trial
